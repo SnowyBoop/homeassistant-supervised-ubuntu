@@ -1,4 +1,5 @@
-# This installation is patched to work for debian and ubuntu / ubuntu server. 
+# This installation includes a patch to work for debian and ubuntu / ubuntu server. 
+# Currently there is no known bugs on the above operating systems.
 
 ## Make sure you understand [the requirements](https://github.com/home-assistant/architecture/blob/master/adr/0014-home-assistant-supervised.md)
 
